@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "killerupbot",
+  "private_key_id": "625335aaacb4ed3a4b373956de8331914f8ad3a4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDjdT62zJjHVeGx\ndE53uKKQ2sCCU5Q+wyEB54k5nCYZGUTZRrCAXksUz+9S54hfFkeB96VHbNp1UOmB\nCPKfSRc/lAswMPrrIWgNUoHec42WVG7P9d/fI+weXd2GCz50NPE8/PehbZM77Meq\nSxGyGbOzcVbiUIhIU2XJpbIqURHybQVk11jUkrhSm8nyxDUJwngLBtaGYozRiUt1\nkFc+sz/RF20DJZIQHnQ8bWfTQm8oPnFwQD0safzJp6zBsJMck/rAgV6WaUOlpE1k\nVFqc93EL8ICD4sTOtuiqTaaRLcru9d4LPnxNTCOgvf0YCtjknUrr1SVP3tKKqJYD\nU2/+2qt7AgMBAAECggEABmZ2ztdBVOtOAARhKH9AVfhktuMuQ4TAc9W4fCQNfgWr\nXaUNHF+WgLaZgUYmYqdMp0Jh1TOtYCoSaWyiZOh4axbuKJK2zMWvanzqH93YVfwb\nf5TnesAuGyZ1MEh8KsOnVQKhmSuzJs6beApqt985dBDi054nOQKAeHN0gAvIH2ho\nJuqeK1zDQyGzoRWyfmxTjhEgpLmLBk0U1rkH7e7tAQ2G+MY/M9xew9/mc4gWYs3A\n/Malz7olDe4DbHxkRiQ2CuG3TSmAMyEYQZXVWZ3IYwCvCmaXc038OZwtiiHe9fW9\nn6zC8yWzHkXggtUU4gb31BcV1qXAnFmuu77YfrKcKQKBgQD6a/p6WE9cccZoNGra\niZ8IfckYdmRxypj8tiZeRT3Py4Jzykdcmqhka/PVzvvOAln834XyGdm+BW9RtgKl\nVadXbItFn3BiJpFUCM21zTbE4cfaL2x+ARPHktAv0Ua0TuXGTJL9525zzKdFv1kt\nduEWdjrHyERQER+Hf4GKehwvFQKBgQDohlD2cPPHHSM+WTDjgD01i5tV/et83hxB\nwDoj0yn9haQDakvK+u2ga4jou6XVtqbIy2LrBNa731gVikkGraeRSyKvMw8a7n6Y\nhFb5SqRW/umONrRJmBetvI5uCVh0eslWvMlXkNK7yJepQJIB39Efup876KivIsgR\n9sJ6rTCUTwKBgQCSeC2c+aIRdAqUUHRfNjdqhAfm4viFBfbNeMygPueUbnfyudFb\nfKoZcnrAB7yIFiAEI8j4fd45onwl0sthYOPr4nTjWAonnl9KQ4vuVgU+ysBWAX73\nhDHJfTl/fmxYcf07Kvaew4p6+KytwumqCepFdQmUaLJsElfarN1b3Wg2sQKBgCFT\nhu0bWUUzfuajv+cLbTpsbPIRN5wo9WHTHEIgNMd6TPyUUpKgDkjMwM2if203BYaH\n6ACJLAG3TBeiPz8uynJ/k1QK/GI+xnQzm4eVVCKH3I+edY6KtvIWsU9CFaR0KME+\nw5jCUAHMCTif4Y1VN9LVW5cpjGu1j3lLpaoRgoHvAoGATKl5BSLPd9mlCwVaZy+1\nLCEM+nOcx9nEZX+AzvzCV/pU+1Xl6et+O/NGOdje3IDXnX44MR5y5DGqZ7MnCQ6Z\nbmCMmoptQH2lt9v1j/XLg9iSl/Kd/K4SaPxFq3ax73/D19ZVte1YutBDqooAPZAi\n+QqG28bQaUvwAZsiGoiZYAc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-5huv739jidlxwok71n8rbrxhkz@killerupbot.iam.gserviceaccount.com",
+  "client_id": "115986385836668927509",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-5huv739jidlxwok71n8rbrxhkz%40killerupbot.iam.gserviceaccount.com"
+}
